@@ -1,0 +1,24 @@
+
+
+  
+  body {
+
+     background-image: url("/Project/images/photo.png");
+
+     background-size: cover;
+      font-family: Arial;
+      text-align:center;
+      overflow: scroll
+
+    }
+
+    #sub{
+      border-radius: 25px;
+      background: #FF9F1C;
+      height: 80px;
+      width: 150px;
+      font-family: "Montserrat";
+      font-size: 1.2em;
+      margin-bottom: 4px;
+
+    }
